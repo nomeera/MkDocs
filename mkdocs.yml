@@ -75,10 +75,11 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Current Projects: about/projects.md
   - Code_Docs: 
       - Java: Coding/firstjava.md
-  - Blabla:
-    - Section1: blabla/blabla.md
+  - About:
+    - Section1: about/blabla.md
   - Contact: contact.md
   - Tags: tags.md
   - Blog: 
